@@ -10,7 +10,5 @@
 <br>
   
 <h2>Primeiro projeto em que utilizo os aprendizados sobre responsividade</h2>
-<br>
-<br>
-<br>
- <img src=""
+
+  <img src="https://github.com/caiotakenaka03/Easy-Shoppping-Project/blob/master/Easy%20Shopping%20mobile.jpeg?raw=true" width="250px">
